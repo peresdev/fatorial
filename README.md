@@ -1,5 +1,5 @@
 # Fatorial (Recursividade) - PHP
-Função para cálculo de número fatorial (possível especificar quantidade para exibição dos resultados).
+Função para cálculo de número fatorial (possível especificar a quantidade para exibição dos resultados - Padrão: 20).
 
 # Saída
 1! = 1

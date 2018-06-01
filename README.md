@@ -1,4 +1,4 @@
-# Fatorial - PHP (Recursividade)
+# Fatorial (Recursividade) - PHP
 Função para cálculo de número fatorial (possível especificar quantidade para exibição dos resultados).
 
 # Saída

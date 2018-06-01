@@ -2,6 +2,8 @@
 Função para cálculo de número fatorial (possível especificar a quantidade para exibição dos resultados - Padrão: 20).
 
 # Saída
+0! = 1
+
 1! = 1
 
 2! = 2

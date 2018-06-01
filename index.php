@@ -5,6 +5,6 @@ function fatorial($numero) {
 
 $quantidade = 20;
 
-for($i = 0; $i < 20; $i++) {
+for($i = 0; $i <= 20; $i++) {
 	echo "{$i}! = " . fatorial($i) . "<br>";
 }
